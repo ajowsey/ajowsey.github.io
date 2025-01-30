@@ -6,5 +6,12 @@ Published: 2025-01-20
 ---
 
 # This site is a work in progress
-This is my first post using Jenny!
+Hi, my name is Andrew Jowsey.
+I am a software developer and you can find my LinkedIn here:
+https://github.com/ajowsey
+
+You can contact me by this email as well:
+business@runaj.ca
+
+This is my first post using a static website generator named Jenny!
 (https://github.com/adamkpickering/jenny)
