@@ -5,16 +5,18 @@ LastModified: 2025-01-24
 Published: 2025-01-20
 ---
 
-# This site is a work in progress
-Hi, my name is Andrew Jowsey.
-I am a software developer and you can find my LinkedIn here:
-[https://www.linkedin.com/in/andrewjowsey/](https://www.linkedin.com/in/andrewjowsey/)
+Hi! I'm Andrew Jowsey, a passionate software developer dedicated to creating elegant solutions to complex problems.
 
-Github:
-[https://github.com/ajowsey](https://github.com/ajowsey)
+<div class="contact-info">
+<h2>Let's Connect</h2>
 
-You can contact me by this email as well:
-[business@runaj.ca](business@runaj.ca)
+🔗 [LinkedIn](https://www.linkedin.com/in/andrewjowsey/) - Let's connect professionally
 
-This is my first post using a static website generator named Jenny!
-[https://github.com/adamkpickering/jenny](https://github.com/adamkpickering/jenny)
+💻 [GitHub](https://github.com/ajowsey) - Check out my code and projects
+
+📧 [business@runaj.ca](mailto:business@runaj.ca) - Get in touch!
+</div>
+
+<div class="tech-note">
+This site is proudly built using [Jenny](https://github.com/adamkpickering/jenny), a simple and elegant static site generator.
+</div>
