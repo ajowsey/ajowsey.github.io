@@ -1,6 +1,6 @@
 ---
 Title: "Welcome to RunAJ.ca"
-TemplateName: "page.gotmpl"
+TemplateName: "home.gotmpl"
 LastModified: 2025-01-24
 Published: 2025-01-20
 ---

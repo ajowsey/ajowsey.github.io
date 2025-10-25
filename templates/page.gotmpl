@@ -1,24 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ .Page.Metadata.Title }}</title>
-    <link rel="stylesheet" href="./static/style.css">
-</head>
-<body>
-    <nav class="navbar">
-        <a href="./index.html">Home</a>
-        <a href="./resume.html">Resume</a>
-    </nav>
-    <div class="container">
-        <header class="header">
-            <h1>{{ .Page.Metadata.Title }}</h1>
-            <p>Software Developer & Technology Enthusiast</p>
-        </header>
+{{ template "header.gotmpl" . }}
         <div class="content">
             {{ .Page.Content }}
         </div>
-    </div>
-</body>
-</html>
+{{ template "footer.gotmpl" . }}
