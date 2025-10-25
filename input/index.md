@@ -5,8 +5,6 @@ LastModified: 2025-01-24
 Published: 2025-01-20
 ---
 
-Hi! I'm Andrew Jowsey, a passionate software developer dedicated to creating elegant solutions to complex problems.
-
 <div class="contact-info">
 <h2>Let's Connect</h2>
 
